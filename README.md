@@ -14,9 +14,9 @@
 ## Demo
 Link: [https://resale-car.herokuapp.com/](https://resale-car.herokuapp.com/)
 
-[![](![Screenshot (1)](https://user-images.githubusercontent.com/88199886/144458531-99e253a9-1bf3-4bb5-a69e-8e616522df4f.png))](https://resale-car.herokuapp.com/)
+[![Screenshot (1)](https://user-images.githubusercontent.com/88199886/144458531-99e253a9-1bf3-4bb5-a69e-8e616522df4f.png)](https://resale-car.herokuapp.com/)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://resale-car.herokuapp.com/)
+[![Screenshot (2)](https://user-images.githubusercontent.com/88199886/144458908-27dcce87-bcf6-49ae-8e28-be336a2a1650.png)](https://resale-car.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts the resale vale of a car using Machi.
