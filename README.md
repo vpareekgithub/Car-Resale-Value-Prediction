@@ -41,12 +41,12 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ```
 ├── template
 │   ├── index.html
+├── Procfile
+├── README.md
 ├── app.py
 ├── car data.csv
 ├── car resale price prediction.ipynb
-├── Procfile
 ├── random_forest_regression_model.pkl
-├──README.md
 ├── requirements.txt
 ```
 
